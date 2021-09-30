@@ -1,5 +1,7 @@
 #include <gtest/gtest.h>
+#include <lib.hpp>
 
-TEST(dummy, should_pass) {
+TEST(dummy_test, should_pass) {
+  dummy();
   EXPECT_EQ(1, 1);
 }
