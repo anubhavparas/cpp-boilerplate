@@ -1,5 +1,5 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/anubhavparas/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/anubhavparas/cpp-boilerplate)
+[![Build Status](https://travis-ci.org/anubhavparas/cpp-boilerplate.svg?branch=master)](https://app.travis-ci.com/github/anubhavparas/cpp-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/anubhavparas/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/anubhavparas/cpp-boilerplate?branch=master)
 ---
 
